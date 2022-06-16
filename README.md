@@ -9,3 +9,5 @@ Repositório para organização dos arquivos, documentos e códigos relacionados
 [Curso aprofundado sobre Git e GitHub](https://www.udemy.com/course/curso-de-git-e-github-essencial/)
 
 [Web server XAMPP](https://www.apachefriends.org/pt_br/index.html)
+
+[W3 Schools - Tutoriais de diversas linguagens](https://www.w3schools.com/)
